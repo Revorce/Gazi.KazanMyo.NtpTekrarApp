@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gazi.KazanMyo.NtpTekrarApp", "Gazi.KazanMyo.NtpTekrarApp\Gazi.KazanMyo.NtpTekrarApp.csproj", "{738E65F1-AA26-4628-8C28-078D7B88772A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OgrenciLib", "OgrenciLib\OgrenciLib.csproj", "{C7E1DBBF-AD72-457D-BD29-14BAEED79CD1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{738E65F1-AA26-4628-8C28-078D7B88772A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{738E65F1-AA26-4628-8C28-078D7B88772A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{738E65F1-AA26-4628-8C28-078D7B88772A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{738E65F1-AA26-4628-8C28-078D7B88772A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7E1DBBF-AD72-457D-BD29-14BAEED79CD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7E1DBBF-AD72-457D-BD29-14BAEED79CD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7E1DBBF-AD72-457D-BD29-14BAEED79CD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7E1DBBF-AD72-457D-BD29-14BAEED79CD1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FFA1C4BE-C5AB-4B62-AA7A-91B3B0633064}
+	EndGlobalSection
+EndGlobal
